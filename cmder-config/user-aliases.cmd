@@ -23,6 +23,10 @@ p.= "C:\Program Files\JetBrains\PhpStorm 2017.3.2\bin\phpstorm64.exe" .
 l="C:\laragon\laragon.exe" $*
 
 c="C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" $*
+phpstorm="C:\Program Files\JetBrains\PhpStorm 2017.3.3\bin\phpstorm64.exe" $*
+p="C:\Program Files\JetBrains\PhpStorm 2017.3.3\bin\phpstorm64.exe" $*
 
 c.=php "C:\laragon\bin\cmder\config\runCurrentDir.php"
 mkdb=php "C:\laragon\bin\cmder\config\createDB.php" $*
+phpunit = "./vendor/bin/phpunit.bat"
+art = "php artisan"
