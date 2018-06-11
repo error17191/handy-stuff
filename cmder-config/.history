@@ -1,0 +1,2043 @@
+d:
+cd Projects\
+cd tadamon\
+cd ..
+cd orders\
+git status
+exit
+cd orders\
+exit
+php artisan make:controller TaskController
+php artisan migrate:fresh --seed
+                this.$emit('task-added', this.task);
+                this.resetTaskValues();
+                this.$el.querySelector('#task-content').focus();
+cls
+git status
+git add .
+cd tadamon\
+git status
+exit
+d:
+cd Projects\
+cd GUI\
+ls
+php gui.php 
+cd ..
+cd orders\
+npm run watch
+cd orders\
+npm run watch
+git status
+git commit -m
+git commit -m "WOrking on New ORder"
+git pull origin master
+git add .
+git commit -m "Resolved Conflicts"
+git push origin master
+git push origin master
+cd ..
+git clone https://github.com/neoighodaro/laravel-passport-demo passport
+cd passport\
+cd todos\
+composer install
+git push origin master
+cd ..
+git clone https://github.com/neoighodaro/laravel-passport-demo passport
+cd passport\
+cd todos\
+composer install
+cd ..\tadamon\
+npm run watch
+rm -rf node_modules\
+npm install
+node -v
+rm -rf node_modules\
+npm install
+node -v
+cd
+cd /
+php mail.php 
+node -v
+cd
+cd /
+php mail.php 
+cd Projects\
+cd tadamon\
+npm install
+npm run watch
+git commit -m "Trying some fix in jquery ajax"
+git add .
+git commit -m "Trying some fix in jquery ajax #2"
+git status
+git push origin master
+ssh mahmed@syal.com.sa
+git pull origin master
+npm run watch
+npm run watch
+git init
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:error17191/slider.git
+cat C:\Users\Mohamed\.ssh\id_rsa.pub 
+git push -u origin master
+git push -u origin master
+cd ../../../
+mkdir translateDestinations
+cd translate
+cd ..
+cd translateDestinations\
+composer require stichoza/google-translate-php
+explorer .
+rm -rf node_modules\
+npm install
+node -v
+cd
+cd /
+php mail.php 
+node -v
+cd
+cd /
+php mail.php 
+cd Projects\
+cd tadamon\
+npm install
+npm run watch
+git commit -m "Trying some fix in jquery ajax"
+git add .
+git commit -m "Trying some fix in jquery ajax #2"
+git status
+git push origin master
+ssh mahmed@syal.com.sa
+git pull origin master
+npm run watch
+npm run watch
+git init
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:error17191/slider.git
+cat C:\Users\Mohamed\.ssh\id_rsa.pub 
+git push -u origin master
+cd ..\syal
+php artisan list hotelsPro
+php artisan make:command TranslateDestinations
+composer dumpautoload
+composer require stichoza/google-translate-php
+php artisan tinker
+php artisan translate:destinations
+php rename.php D:\Files\app\data\books\الطيبب العالم نجيب محفوظ
+php artisan translate:destinations
+php rename.php D:\Files\app\data\books\الطيبب العالم نجيب محفوظ
+npm start
+npm install
+node -v
+cd
+cd /
+php mail.php 
+node -v
+cd
+cd /
+php mail.php 
+cd Projects\
+cd tadamon\
+npm install
+npm run watch
+git commit -m "Trying some fix in jquery ajax"
+git add .
+git commit -m "Trying some fix in jquery ajax #2"
+git status
+git push origin master
+ssh mahmed@syal.com.sa
+git pull origin master
+npm run watch
+npm run watch
+git init
+git add .
+git commit -m "first commit"
+git remote add origin git@github.com:error17191/slider.git
+cat C:\Users\Mohamed\.ssh\id_rsa.pub 
+git push -u origin master
+git push -u origin master
+cd ../../../
+mkdir translateDestinations
+cd translate
+cd ..
+cd translateDestinations\
+composer require stichoza/google-translate-php
+explorer .
+rm -rf node_modules\
+npm install
+node -v
+cd
+cd /
+php mail.php 
+node -v
+cd
+cd /
+php mail.php 
+cd Projects\
+cd tadamon\
+npm install
+npm run watch
+git commit -m "Trying some fix in jquery ajax"
+git add .
+git commit -m "Trying some fix in jquery ajax #2"
+git status
+ssh mahmed@syal.com.sa
+git pull origin master
+npm run watch
+npm run watch
+git commit -m "first commit"
+git remote add origin git@github.com:error17191/slider.git
+cat C:\Users\Mohamed\.ssh\id_rsa.pub 
+git push -u origin master
+cd ..\syal
+php artisan list hotelsPro
+php artisan make:command TranslateDestinations
+composer dumpautoload
+composer require stichoza/google-translate-php
+php artisan translate:destinations
+php rename.php D:\Files\app\data\books\الطيبب العالم نجيب محفوظ
+php artisan translate:destinations
+php rename.php D:\Files\app\data\books\الطيبب العالم نجيب محفوظ
+npm start
+cd ..\learning-maps\
+composer quire guzzlehttp/guzzle
+composer require guzzlehttp/guzzle
+php artisna map
+git init
+git remote add origin git@bitbucket.org:syaltech/learning-maps.git
+git add .
+git commit -m "First Commit"
+git push origin master]
+git push origin master
+php artisan tinker
+php artisan map
+php artisan make:command Example
+php artisan example
+git push origin master]
+git push origin master
+php artisan tinker
+php artisan map
+php artisan make:command Example
+php artisan example
+php artisan make:command Hotels
+php artisan hotels
+php artisan MapsTwo
+php artisan make:command MapsTwo
+php artisan example
+php artisan make:command Hotels
+php artisan hotels
+php artisan MapsTwo
+php artisan make:command MapsTwo
+cd ..
+cd php_pthreads-3.1.6-7.2-ts-vc15-x64\
+cd examples\
+ls
+php Benchmark.php 
+php -v
+php -v
+php -v
+php -v
+php artisan make:command Example
+php artisan example
+php artisan make:command Hotels
+php artisan hotels
+php artisan MapsTwo
+php artisan make:command MapsTwo
+php artisan example
+php artisan make:command Hotels
+php artisan hotels
+php artisan MapsTwo
+php artisan make:command MapsTwo
+cd php_pthreads-3.1.6-7.2-ts-vc15-x64\
+cd examples\
+php -v
+php -v
+php -v
+php -v
+php Benchmark.php 
+php KeepAliveSession.php 
+cd ..
+cd Projects\
+ls
+cd learning-maps\
+php artisan make:command Parallel
+php artisan make:command Continue
+php artisan make:command Cont
+php artisan cont
+php artisan lodging
+php artisan cont
+php artisan lodging
+cd ..
+cd syalweb\
+git status
+git checkout .
+explorer .
+ls
+php Benchmark.php 
+php -v
+php -v
+php -v
+php -v
+php artisan make:command Example
+php artisan example
+php artisan make:command Hotels
+php artisan hotels
+php artisan MapsTwo
+php artisan make:command MapsTwo
+php artisan example
+php artisan make:command Hotels
+php artisan hotels
+php artisan MapsTwo
+php artisan make:command MapsTwo
+cd php_pthreads-3.1.6-7.2-ts-vc15-x64\
+cd examples\
+php -v
+php -v
+php -v
+php Benchmark.php 
+php KeepAliveSession.php 
+cd Projects\
+cd learning-maps\
+php artisan make:command Parallel
+php artisan make:command Continue
+php artisan make:command Cont
+php -v
+php artisan lodging
+php artisan cont
+php artisan parallel
+cd syalweb\
+cd ..
+cd syalnewdesign\
+mv -rf syalweb\* .
+mv -rf ./syalweb/* .
+mv --help
+mv -f syalweb\* .
+explorer .
+ls
+git status
+php artisan cont
+php artisan lodging
+php combine.php 
+ssh mahmed@syal.com.sa
+git status
+mv -rf ./syalweb/* .
+mv --help
+mv -f syalweb\* .
+explorer .
+ls
+git status
+php artisan cont
+php artisan lodging
+php combine.php 
+ssh mahmed@syal.com.sa
+git status
+pwd
+cd
+cd ..\translate
+cd Pro
+cd Projects\
+cd syal
+cat composer.json
+cd ..
+cd translate
+composer require stichoza/google-translate-php
+php translate.php 
+git status
+php artisan view:clear
+php -v
+git status
+php -v
+git status
+php artisan view:clear
+php artisan cache:clear
+cd ..
+cd Projects\
+cd syalnewdesign\
+git status
+php -v
+git status
+php -v
+git status
+php artisan view:clear
+php artisan cache:clear
+cd ..
+notepad++ hello.js
+notepad++ hello.txt
+node hello.js 
+ssh mahmed@syal.com.sa
+php artisan cache:clear
+notepad++ hello.js
+notepad++ hello.txt
+node hello.js 
+ssh mahmed@syal.com.sa
+cd learning-maps\
+cat webpack.mix.js 
+cd ..
+cd my-project\
+chroot.exe index.html 
+chrome
+chrome.exe
+ls
+cat package
+cat build/webpack.dev.conf.js
+cat package.json 
+explorer .
+exit
+php -a
+cd syal
+cat composer.json
+cd ..
+cd translate
+composer require stichoza/google-translate-php
+php translate.php 
+git status
+php artisan view:clear
+php -v
+git status
+php -v
+git status
+php artisan view:clear
+php artisan cache:clear
+cd ..
+cd syalnewdesign\
+git status
+php -v
+git status
+php -v
+php artisan view:clear
+php artisan cache:clear
+cd ..
+notepad++ hello.js
+notepad++ hello.txt
+node hello.js 
+ssh mahmed@syal.com.sa
+php artisan cache:clear
+notepad++ hello.js
+notepad++ hello.txt
+node hello.js 
+ssh mahmed@syal.com.sa
+cd learning-maps\
+cat webpack.mix.js 
+cd my-project\
+chroot.exe index.html 
+chrome
+chrome.exe
+cat package
+cat build/webpack.dev.conf.js
+cat package.json 
+exit
+cd Projects\
+cd mix\
+explorer .
+npm run ot
+npm run hot
+cd ..\webpack\
+npm install webpack@2 --save-dev
+mv -rf webpack learning-webpack
+rm -rf webpack\
+mkdir learning-webpack
+cd learning-
+cd learning-webpack\
+npm install --save-dev webpack@2
+webpack
+node_modules\webpack\bin\webpack.js 
+node_modules\.bin\webpack.cmd  src\main.js dist/bundle.js
+ls dist\
+node_modules\.bin\webpack.cmd  src\main.js dist/bundle.js --watch
+node script.js 
+node_modules\.bin\webpack.cmd 
+cd mix
+cd ..
+mkdir learning-mix
+cd learning-m
+cd learning-mix\
+npm init -y
+npm init
+npm run test
+npm install
+npm install vue
+npm install vue --save-dev
+npm install --save-dev cross-env
+npm install jquery --save-dev
+npm install --save-dev bootstrap-vue
+npm install bootstrap --save-dev
+ls
+rm index.html 
+rm -rf dist\ src\ package-lock.json 
+git init
+git status
+git add .
+git commit -m "First Commit "
+git push origin master
+git remote add origin git@bitbucket.org:syaltech/frontend.git
+git push -u origin master
+cd ..\learning-webpack\
+npm run dev
+npm run watch
+explorer .
+npm run ot
+npm run hot
+cd ..\webpack\
+npm install webpack@2 --save-dev
+mv -rf webpack learning-webpack
+rm -rf webpack\
+mkdir learning-webpack
+cd learning-
+cd learning-webpack\
+npm install --save-dev webpack@2
+webpack
+node_modules\webpack\bin\webpack.js 
+node_modules\.bin\webpack.cmd  src\main.js dist/bundle.js
+ls dist\
+node_modules\.bin\webpack.cmd  src\main.js dist/bundle.js --watch
+node script.js 
+node_modules\.bin\webpack.cmd 
+cd mix
+mkdir learning-mix
+cd learning-m
+cd learning-mix\
+npm init -y
+npm init
+npm run test
+npm install
+npm install vue
+npm install vue --save-dev
+npm install --save-dev cross-env
+npm install jquery --save-dev
+npm install --save-dev bootstrap-vue
+npm install bootstrap --save-dev
+rm index.html 
+rm -rf dist\ src\ package-lock.json 
+git init
+git status
+git add .
+git commit -m "First Commit "
+git push origin master
+git remote add origin git@bitbucket.org:syaltech/frontend.git
+git push -u origin master
+cd ..\learning-webpack\
+npm run dev
+npm run watch
+c:
+cd ..
+cd /
+cd Users\
+cd Mohamed\
+cd Desktop\
+cd ListApp\
+ls
+composer require league/climate
+php app.php 
+exit
+node_modules\webpack\bin\webpack.js 
+node_modules\.bin\webpack.cmd  src\main.js dist/bundle.js
+ls dist\
+node_modules\.bin\webpack.cmd  src\main.js dist/bundle.js --watch
+node script.js 
+node_modules\.bin\webpack.cmd 
+cd mix
+mkdir learning-mix
+cd learning-m
+cd learning-mix\
+npm init
+npm run test
+npm install
+npm install vue
+npm install vue --save-dev
+npm install --save-dev cross-env
+npm install jquery --save-dev
+npm install --save-dev bootstrap-vue
+npm install bootstrap --save-dev
+rm index.html 
+rm -rf dist\ src\ package-lock.json 
+git init
+git status
+git add .
+git commit -m "First Commit "
+git push origin master
+git remote add origin git@bitbucket.org:syaltech/frontend.git
+git push -u origin master
+cd ..\learning-webpack\
+npm run dev
+npm run watch
+cd ..\..\node
+cd one\
+node
+mkdir notes
+cd no
+cd notes\
+cat greeting.txt 
+cd 002
+cp -rf 002 003
+cd 003
+cp -rf 003 004
+cd 004
+cp 004 005
+cp -r 004 005
+cd 05
+cd 005
+npm -v
+npm init -y
+npm install loadash --save
+npm i --save lodash
+php -a
+cp -r 005 006
+npm install nodemon -g
+nodemon.cmd app.js 
+cd ..
+cd 006
+node app.js 
+node app.js  one two
+node app.js  one two three
+ls
+ls
+c:
+cd /
+cd Users\
+cd Mohamed\
+cd Desktop\
+cd ListApp\
+php app.php 
+c:
+cd /
+cd Users\
+cd Mohamed\
+cd Desktop\
+cd ListApp\
+php app.php 
+d:
+cd node
+cd notes\
+cd 006
+ls
+node app.js  aaa
+cat app.js 
+node app.js 
+cd ..
+cp -r 006 007
+cd 007\
+cd ..\syalweb\
+git status
+php -v
+cd /
+cd Projects\
+cd syalnewdesign\
+git status
+git diff resources/views/cart/index.blade.php
+git diff resources/views/layouts/app.blade.php
+php -v
+git diff resources/views/layouts/app.blade.php
+php -v
+cd /
+git clone https://github.com/electron/electron-quick-start desktop
+npp package.json 
+phpstorm
+npp
+notepad
+notepad++.exe package.json 
+cd ..
+cd desktop\
+rm .git
+rm -rf .git
+npm install
+npm install --save desktop-idle
+git diff resources/views/cart/index.blade.php
+git diff resources/views/layouts/app.blade.php
+php -v
+cmd
+start cmd
+runas /user:mohamed cmd
+cmder
+runas /user:mohamed cmder
+git status
+git status
+npm install --save desktop-idle
+git status
+notepad
+notepad++.exe package.json 
+cd desktop\
+rm .git
+rm -rf .git
+npm install --save desktop-idle
+git diff resources/views/cart/index.blade.php
+git diff resources/views/layouts/app.blade.php
+php -v
+cmd
+start cmd
+runas /user:mohamed cmd
+cmder
+runas /user:mohamed cmder
+git status
+git status
+npm install --save desktop-idle
+cd ./build/Release/desktopIdle
+cat package
+cat package.json 
+rm -rf node_modules\
+npm install
+cd node_modules\
+cd desktop-idle\
+ls
+node-gyp configure --msvs_version=2015
+node-gyp build
+cd ..
+node_modules\.bin\electron-rebuild.cmd 
+explorer .
+npm start
+git status
+git add .
+git commit -m "Attaching new Design"
+git push origin master
+git status
+node_modules\.bin\electron-rebuild.cmd 
+explorer .
+npm start
+git status
+git status
+node_modules\.bin\electron-rebuild.cmd 
+explorer .
+npm start
+git status
+cd ..\syalnewdesign\
+cd /
+cd desktop\
+cat package.json 
+npp
+c"
+c:
+cd ..
+ls
+cat user-aliases.cmd 
+notepad++
+e
+cat user-profile.cmd 
+notepad++ user-profile.cmd 
+node_modules\.bin\electron-rebuild.cmd 
+explorer .
+npm start
+git status
+git add .
+git commit -m "Attaching new Design"
+git push origin master
+git status
+node_modules\.bin\electron-rebuild.cmd 
+explorer .
+npm start
+cd ..\syalweb\
+php artisan tinker
+cd /
+cd desktop\
+npm install electron-screenshot-service
+mkdir nodeExperiments
+cd nodeExperiments\
+notepad++.exe example.js
+node example.js 
+notepad++.exe example.json
+node example.js
+ls
+cat out.json 
+node
+node -v
+..
+cd ..
+cd Projects\
+cd syalweb\
+npp
+ls
+node example.js
+cat out.json 
+node
+node -v
+..
+cd Projects\
+cd syalweb\
+npp
+c:
+cd ..
+cat user-profile.cmd 
+e.
+gl
+cat user-aliases.cmd 
+notepad++.exe user-aliases.cmd 
+user-aliases.cmd 
+user-profile.cmd 
+ls
+e
+notepad++.exe  user-profile.cmd 
+npp
+npp
+cd ..\syalweb\
+php artisan tinker
+cd /
+cd desktop\
+npm install electron-screenshot-service
+mkdir nodeExperiments
+cd nodeExperiments\
+notepad++.exe example.js
+node example.js 
+notepad++.exe example.json
+node example.js
+ls
+cat out.json 
+node
+node -v
+..
+cd ..
+cd Projects\
+cd syalweb\
+npp
+ls
+node example.js
+cat out.json 
+node
+node -v
+..
+cd Projects\
+npp
+c:
+cat user-profile.cmd 
+e.
+gl
+cat user-aliases.cmd 
+notepad++.exe user-aliases.cmd 
+user-aliases.cmd 
+user-profile.cmd 
+e
+notepad++.exe  user-profile.cmd 
+npp
+npp
+ls settings 
+cd sett
+cd settings
+cat settings 
+ll
+ls -a
+cd data
+cd mysql\
+cd mysql
+cd syalweb\
+cat cscms_logins.frm 
+cat cscms_logins.ibd 
+cd etc
+cd ss1
+cat ss1
+cd apps
+cd laragon\
+cd extras\
+ls ..
+cd ssl
+cd ..
+cd bin\
+cd cmder\
+cat cmder.bat 
+cd vendor\
+ls
+cat init.bat 
+notepad++.exe init.bat 
+npp
+npp
+notepad++.exe  init.bat 
+npp
+notepad++.exe init.bat 
+cd vendor\
+cat init.bat 
+notepad++.exe init.bat 
+npp
+npp
+notepad++.exe  init.bat 
+npp
+notepad++.exe init.bat 
+cat user-aliases.cmd.example 
+cat cmder.bat 
+cd bin\
+cat alias.bat 
+notepad++.exe alias.bat 
+cd ..
+cd config\
+ls
+cat user-profile.cmd 
+notepad++.exe 
+notepad++.exe  user-profile.cmd 
+notepad++.exe  user-profile.cmd 
+ls
+notepad++.exe  user-aliases.cmd 
+ls
+npp
+cd
+cd~
+cd ~
+cd /
+cd laragon\
+cd bin\
+cd cme
+ls
+cd
+pwd
+cat
+npp
+e
+d:
+d:
+c:
+cd ..
+ls
+cp user-profile.cmd profile.d\
+cp user-profile.cmd profile.d\
+cp user-aliases.cmd profile.d\
+ls
+npp
+e
+explorer .
+vim
+vi
+npp
+npp
+e
+explorer .
+vim
+vi
+npp
+d:
+cd nodeExperiments\
+node example.js
+ؤي زز
+cd ..
+cd desktop\
+ls
+e package
+e package.json 
+e main.js 
+node main.js 
+cd node_modules\desktop-idle
+node-gyp build
+node-gyp build /m
+cd ../../
+node main.js
+npm start
+cd ../../
+node main.js
+npm start
+cd ..
+mkdir chat
+rm chat\
+rmdir chat\
+git clone https://github.com/socketio/chat-example chat
+cd chat\
+npm install
+e app.json 
+rm -rf .git
+e index.js 
+ls
+cat package.json 
+cat app.json 
+node index.n
+node index.js 
+imdisplay
+imdisplay
+mkdir chat
+rm chat\
+rmdir chat\
+git clone https://github.com/socketio/chat-example chat
+cd chat\
+npm install
+e app.json 
+rm -rf .git
+e index.js 
+ls
+cat package.json 
+cat app.json 
+node index.n
+node index.js 
+imdisplay
+imdisplay
+cd ..
+cd desktop\
+npm i desktop-screenshot --save
+e main.js 
+npm install --save screenshot-desktop
+npm start
+node
+clear
+cls
+exit
+cls
+exit
+cd ../../..
+cd ..
+npm install uglify-js -g
+cd main\assets\frontend\css\
+uglifiyjs
+uglifyjs
+cp style.css style-src.css
+uglifyjs --compress style.css
+uglifyjs style.css
+git clone https://github.com/socketio/chat-example chat
+cd chat\
+npm install
+e app.json 
+rm -rf .git
+e index.js 
+cat app.json 
+node index.n
+node index.js 
+imdisplay
+imdisplay
+cd desktop\
+npm i desktop-screenshot --save
+e main.js 
+npm install --save screenshot-desktop
+npm start
+node
+clear
+cls
+exit
+explorer .
+npm install uglifycss -g
+uglifycss style.c
+uglifycss --debug style.css
+uglifycss style.css
+uglifycss s1.css 
+uglifycss.cmd s1.css --output s1.min.css
+uglifycss
+cd ..
+cat package.json 
+npm install --save purify-css
+node -v
+node purify.js 
+cd main
+cd assets
+cd frontend
+cd css
+rm style-src.css 
+cp style.css style.bak.css
+rm s1.css s2.css s4.css s3.css 
+git status
+git add .
+git commit -m "Validated CSS"
+git push origin master
+uglifycss.cmd style.css
+npm install -g sqwish
+sqwish.cmd style.css
+ls
+ls -la
+e main.js 
+npm install --save screenshot-desktop
+npm start
+node
+clear
+cls
+exit
+cd ../projects
+cd syalweb\
+git status
+git add .
+git commit -m "removed preloader"
+git push origin master
+ssh mahmed@noisystate.com
+ssh mahmed@syal.com.sa
+clear
+cls
+exit
+cd ../projects
+cd syalweb\
+git status
+git add .
+git commit -m "removed preloader"
+git push origin master
+ssh mahmed@noisystate.com
+ssh mahmed@syal.com.sa
+cd Sockets\
+ls
+cd ..
+cd chat\
+node index.
+node index.js
+cd chat\
+node index.
+node index.js
+git status
+git checkout style.css
+ls
+cd ..
+cd ..\syalnewdesign\
+cd resources\
+cd views\
+e bassant\services.blade.php 
+explorer .
+cd views\
+e bassant\services.blade.php 
+explorer .
+node
+php -a
+node 
+cd mix\
+ls
+e webpack.mix.js 
+cd ..
+cd travninja\
+php artisan make:middleware AgencyCheck
+ls
+cd ..
+cd ..\syalnewdesign\
+cd resources\
+cd views\
+e bassant\services.blade.php 
+explorer .
+cd views\
+e bassant\services.blade.php 
+explorer .
+node
+php -a
+node 
+cd mix\
+ls
+e webpack.mix.js 
+cd ..
+cd travninja\
+php artisan make:middleware AgencyCheck
+curl
+curl http://requestb.in/example
+curl https://www.google.com/
+curl https://www.oreilly.com/
+php artisan make:command Experiment
+\]
+composer require "orchestra/parser=~3.0"
+composer require "orchestra/parser=~3.6"
+php artisan experiment
+cd ..
+laravel new jwt
+cd ..
+laravel new jwt
+node protectedResource.js 
+php artisan make:command Experiment
+\]
+composer require "orchestra/parser=~3.0"
+composer require "orchestra/parser=~3.6"
+php artisan experiment
+cd ..
+laravel new jwt
+node authorizationServer.js 
+curl http://requestb.in/example
+curl https://www.google.com/
+curl https://www.oreilly.com/
+php artisan make:command Experiment
+\]
+composer require "orchestra/parser=~3.0"
+composer require "orchestra/parser=~3.6"
+php artisan experiment
+cd ..
+laravel new jwt
+cd /
+cd oauth\
+cd ch-3-ex-1\
+ls
+npm install
+phpstorm .
+node client.js 
+phpstorm .
+node client.js 
+node protectedResource.js 
+cd ..
+cd ch-3-ex-2\
+cd ..\..\Projects\jwt\
+composer require ibrahim21383/test-packages
+c:
+ cd /
+cd Users\
+cd Mohamed\
+cd .ssh\
+ls
+cat known_hosts 
+exit
+laragon -v
+mongo
+node authorizationServer.js 
+cd ..\complete\
+node protectedResource.js 
+cd ..\complete\
+node authorizationServer.js 
+mongo
+cd ..\complete\l
+cd ..\complete
+node client.js 
+cd ..
+cd ch-3-ex-1\
+phpstorm .
+cd ..
+cd ch-3-ex-1\
+cd ..
+cd ch-3-ex-1\
+cd ../../
+cd Projects\
+laravel new token
+cd ..\ch-6-ex-1\
+start
+start
+ssh mahmed@syal.com.sa
+start
+ssh mahmed@syal.com.sa
+start
+start
+ssh mahmed@syal.com.sa
+start
+mkdir ajax-client
+phpstorm .
+ssh mahmed@syal.com.sa
+git clone https://github.com/arup-mondal/laravel-5.6-ajax-login ajaxLogin
+mv -rf ajaxLogin ajax-login
+mv -f ajaxLogin ajax-login
+lsl
+cd ajax-login\
+composer install
+cd ..
+cd ajax-client\
+npm init -y
+npm install jquery
+cd ..
+cd ch-3-ex-1\
+cd ch-3-ex-1\
+cd ../../
+cd Projects\
+laravel new token
+cd ..\ch-6-ex-1\
+start
+start
+ssh root@syal.com.sa
+ssh mahmed@noisystate.com
+cd ..\..\Projects\admin-temp\
+npm install
+ssh mahmed@syal.com.sa
+ssh mahmed@149.28.33.29
+cd ..
+laravel new cookies
+cd cookies\
+phpstorm .
+composer require barryvdh/laravel-cors
+php artisan vendor:publish --provider="Barryvdh\Cors\ServiceProvider"
+cd ..
+mkdir cli-chat
+cd cli-chat\
+laravel new jwt
+node protectedResource.js 
+php artisan make:command Experiment
+\]
+composer require "orchestra/parser=~3.0"
+composer require "orchestra/parser=~3.6"
+php artisan experiment
+cd ..
+laravel new jwt
+node authorizationServer.js 
+curl http://requestb.in/example
+curl https://www.google.com/
+curl https://www.oreilly.com/
+php artisan make:command Experiment
+\]
+composer require "orchestra/parser=~3.0"
+composer require "orchestra/parser=~3.6"
+php artisan experiment
+cd ..
+laravel new jwt
+cd oauth\
+cd ch-3-ex-1\
+ls
+npm install
+phpstorm .
+node client.js 
+phpstorm .
+node client.js 
+node protectedResource.js 
+cd ..
+cd ch-3-ex-2\
+cd ..\..\Projects\jwt\
+composer require ibrahim21383/test-packages
+ cd /
+cd .ssh\
+cat known_hosts 
+exit
+laragon -v
+mongo
+node authorizationServer.js 
+cd ..\complete\
+node protectedResource.js 
+cd ..\complete\
+node authorizationServer.js 
+mongo
+cd ..\complete\l
+cd ..\complete
+node client.js 
+cd ..
+cd ch-3-ex-1\
+phpstorm .
+cd ..
+cd ch-3-ex-1\
+cd ..
+cd ch-3-ex-1\
+cd ../../
+cd Projects\
+laravel new token
+cd ..\ch-6-ex-1\
+start
+start
+ssh mahmed@syal.com.sa
+start
+ssh mahmed@syal.com.sa
+start
+start
+ssh mahmed@syal.com.sa
+start
+mkdir ajax-client
+phpstorm .
+ssh mahmed@syal.com.sa
+git clone https://github.com/arup-mondal/laravel-5.6-ajax-login ajaxLogin
+mv -rf ajaxLogin ajax-login
+mv -f ajaxLogin ajax-login
+lsl
+cd ajax-login\
+composer install
+cd ..
+cd ajax-client\
+npm init -y
+npm install jquery
+cd ..
+cd ch-3-ex-1\
+cd ch-3-ex-1\
+cd ../../
+laravel new token
+cd ..\ch-6-ex-1\
+start
+start
+ssh root@syal.com.sa
+ssh mahmed@noisystate.com
+cd ..\..\Projects\admin-temp\
+npm install
+ssh mahmed@syal.com.sa
+ssh mahmed@149.28.33.29
+cd ..
+laravel new cookies
+cd cookies\
+composer require barryvdh/laravel-cors
+php artisan vendor:publish --provider="Barryvdh\Cors\ServiceProvider"
+mkdir cli-chat
+cd cli-chat\
+cd rest
+composer create-project --prefer-dist laravel/laravel forum "5.5.*"
+cd forum\
+cat composer.json 
+php artisan make:model Thread -m
+rm database\migrations\2018_05_24_103155_create_threads_table
+rm database\migrations\2018_05_24_103155_create_threads_table.php
+rm app\Thread.php 
+php artisan make:model Thread -mr
+composer list
+git remote add origin git@github.com:error17191/forum.git
+cls
+php artisan make:model -mc Reply
+cd jwt
+git remote add origin git@github.com:error17191/laravel-jwt.git
+cd VueTablesPractice\
+cd learning-
+cd learning-maps\
+cd vueForms\
+cd //
+cd poke\
+git remote add origin git@github.com:error17191/node-realtime-poke.git
+c:
+cd 
+cd ~
+cd
+cd /
+cd Users\
+cd Mohamed\
+cd Desktop\
+cd calender2\
+git remote add origin git@github.com:error17191/simple-js-calender.git
+cd ListApp\
+git commit -m "first commit"
+git remote add origin git@github.com:error17191/cli-menu.git
+d:
+cd MyWorkSpace\
+cd unit-tests\
+git committ -m "First Commit"
+e .gitignore
+git status
+git commit -m "added vendor to gitignore
+rm -rf .git
+git remote add origin git@github.com:error17191/phpunit-practice.git
+git rm -r --cached .idea\
+ls -l
+ls -a
+e .gitignore 
+git commit -m "Removed .idea from repo"
+git push orign master
+git push origin master
+e.
+cd  cards\
+git remote add origin git@github.com:error17191/js-memory-game.git
+cd ..\..\Projects\forum\
+php artisan migrate
+php artisan migrate:refresh
+php artisan make:command MakeView
+php artisan make:view
+php artisan tinker
+php artisan make:view example.index
+php artisan make:view threads.index
+php artisan make:view users.index
+php artisan make:view users.index -f
+php artisan make:view users.index f
+php artisan make:view -f users.index 
+php artisan make:view --f users.index 
+php artisan make:view  users.index 
+php artisan make:view  users.index --f
+php artisan make:view users.forms.register
+php artisan make:view users.forms.register --f
+php artisan make:auth
+phpunit
+php artisna config:clear
+php artisan config;clear
+php artisan config:clear
+laravel new laravel-test
+ls
+cd Projects\
+rm -rf .git\
+cd laravel-test\
+git init
+git remote add origin git@github.com:error17191/laravel-unittesting.git
+phpstorm .
+vendor\bin\phpunit.bat 
+cd ..
+rm -rf laravel-test\
+composer create-project --prefer-dist laravel/laravel laravel-unit-test "5.2.*"
+cd laravel-unit-test\
+git init 
+git add .
+git commit -m "First Commit"
+git remote add origin git@github.com:error17191/laravel-unit-test.git
+git push -u origin master
+git push orign master
+git push origin master
+e.
+cd  cards\
+git remote add origin git@github.com:error17191/js-memory-game.git
+cd ..\..\Projects\forum\
+php artisan migrate
+php artisan migrate:refresh
+php artisan make:command MakeView
+php artisan make:view
+php artisan make:view example.index
+php artisan make:view threads.index
+php artisan make:view users.index
+php artisan make:view users.index -f
+php artisan make:view users.index f
+php artisan make:view -f users.index 
+php artisan make:view --f users.index 
+php artisan make:view  users.index 
+php artisan make:view  users.index --f
+php artisan make:view users.forms.register
+php artisan make:view users.forms.register --f
+php artisan make:auth
+php artisna config:clear
+php artisan config;clear
+php artisan config:clear
+laravel new laravel-test
+cd Projects\
+rm -rf .git\
+cd laravel-test\
+git init
+git remote add origin git@github.com:error17191/laravel-unittesting.git
+rm -rf laravel-test\
+composer create-project --prefer-dist laravel/laravel laravel-unit-test "5.2.*"
+cd laravel-unit-test\
+git init 
+git add .
+git commit -m "First Commit"
+git remote add origin git@github.com:error17191/laravel-unit-test.git
+git push -u origin master
+mv travninja\ travninja-experiments
+laravel new travninja
+cd travninja
+phpstorm .
+cd ..
+phpstorm travninja-experiments\
+cd travninja-experiments\
+dir
+ls
+composer dumpautoload
+php artisan tinker 
+php artisan make:test TBOClientTest --unit
+phpunit
+vendor\bin\phpunit.bat --fliter test_can_set_action
+vendor\bin\phpunit.bat --filter test_can_set_action
+vendor\bin\phpunit.bat --filter test_action_method_accepts_only_strings
+vendor\bin\phpunit.bat --filter test_compose_field_returns_DomElement
+vendor\bin\phpunit.bat --filter test_compose_filed_method_returns_well_formated_DOMElement
+vendor\bin\phpunit.bat --filter test_compose_filed_method_creates_well_formated_DOMElement
+php artisan tinker
+vendor\bin\phpunit.bat 
+vendor\bin\phpunit.bat --filter test_TBOClient_is_instantiable
+vendor\bin\phpunit.bat --filter test_TBOClient_constructor_well_generates_well_structured_xml
+vendor\bin\phpunit.bat --filter test_composeBody_method_can_create_well_structured_xml_for_flat_arrays
+c:
+d:
+cd /c
+cd /
+cd /d
+cd /
+cd /d
+d;
+dL
+d:
+d:
+cd /
+cd /d
+ls
+php artisan config:clear
+laravel new laravel-test
+rm -rf .git\
+cd laravel-test\
+git init
+git remote add origin git@github.com:error17191/laravel-unittesting.git
+rm -rf laravel-test\
+composer create-project --prefer-dist laravel/laravel laravel-unit-test "5.2.*"
+cd laravel-unit-test\
+git init 
+git commit -m "First Commit"
+git remote add origin git@github.com:error17191/laravel-unit-test.git
+git push -u origin master
+mv travninja\ travninja-experiments
+laravel new travninja
+phpstorm travninja-experiments\
+cd travninja-experiments\
+dir
+ls
+composer dumpautoload
+php artisan tinker 
+php artisan make:test TBOClientTest --unit
+phpunit
+vendor\bin\phpunit.bat --fliter test_can_set_action
+vendor\bin\phpunit.bat --filter test_can_set_action
+vendor\bin\phpunit.bat --filter test_action_method_accepts_only_strings
+vendor\bin\phpunit.bat --filter test_compose_field_returns_DomElement
+vendor\bin\phpunit.bat --filter test_compose_filed_method_returns_well_formated_DOMElement
+vendor\bin\phpunit.bat --filter test_compose_filed_method_creates_well_formated_DOMElement
+php artisan tinker
+vendor\bin\phpunit.bat --filter test_TBOClient_is_instantiable
+vendor\bin\phpunit.bat --filter test_TBOClient_constructor_well_generates_well_structured_xml
+vendor\bin\phpunit.bat --filter test_composeBody_method_can_create_well_structured_xml_for_flat_arrays
+c:
+d:
+cd /c
+cd /
+cd /d
+cd /
+cd /d
+d;
+dL
+d:
+cd /
+cd /d
+ls
+pwd
+d:
+cd Projects\
+cd travninja
+php artisan make:test AgencyCreation
+rm tests\Feature\AgencyCreation.php 
+vendor\bin\phpunit.bat A
+php artisan make:model Agency
+php artisan make:migration create_agencies_table --create=agencies
+php artisan migrate
+php artisan make:controller AgenciesController
+
+php artisan migrate:refresh
+php artisan make:test AgencyCreationTest
+vendor\bin\phpunit.bat --filter test_that_agency_can_be_created
+cd ..\travninja-experiments\
+phpstorm .
+vendor\bin\phpunit.bat --filter test_method_name_temp
+php artisan make:test HelpersFunctionsTest --unit
+vendor\bin\phpunit.bat --filter test_is_numeric_array_only_accepts_arrays
+vendor\bin\phpunit.bat --filter HelpersFunctionsTest
+git status
+git commit -m "Working Now"
+vendor\bin\phpunit.bat --filter test_TBOClient_constructor_generates_well_structured_xml_request
+git add .
+git commit -m "Working in Progress"
+git push origin master
+cd ..
+laravel fresh-laravel
+laravel new fresh-laravel
+php artisan make:model Agency
+php artisan make:migration create_agencies_table --create=agencies
+php artisan migrate
+php artisan make:controller AgenciesController
+php artisan migrate:refresh
+php artisan make:test AgencyCreationTest
+vendor\bin\phpunit.bat --filter test_that_agency_can_be_created
+cd ..\travninja-experiments\
+vendor\bin\phpunit.bat --filter test_method_name_temp
+php artisan make:test HelpersFunctionsTest --unit
+vendor\bin\phpunit.bat --filter test_is_numeric_array_only_accepts_arrays
+vendor\bin\phpunit.bat --filter HelpersFunctionsTest
+git status
+git commit -m "Working Now"
+vendor\bin\phpunit.bat --filter test_TBOClient_constructor_generates_well_structured_xml_request
+git commit -m "Working in Progress"
+git push origin master
+laravel fresh-laravel
+laravel new fresh-laravel
+d:
+cd proje
+cd Projects\
+cd fresh-laravel\
+phpstorm .
+git init
+git commit -m
+git add .
+git config.editor
+git config core.editor
+git commit
+php working.php 
+cd ..
+cd MyWorkSpace\
+mkdir console
+cd console\
+composer require symfony/console
+p.
+d:
+cd Projects\
+cd travninja-experiments\
+p.
+d;
+d:
+l
+git commit -m
+git config.editor
+git config core.editor
+git commit
+php working.php 
+cd ..
+cd MyWorkSpace\
+mkdir console
+cd console\
+composer require symfony/console
+p.
+cd travninja-experiments\
+l
+d:
+cd Projects\
+e.
+git clone git@github:error17191/multitenancy-singledb
+git clone git@github.com:error17191/multitenancy-singledb
+cd multitenancy-singledb\
+composer install
+p.
+cp .env.example .env
+e .env
+php artisan make:model Project -m
+php artisan make:controller Tenant\DashboardController
+php artisan key:generate
+composer require sven/artisan-view:^3.0 --dev
+php artisan migrate\
+php artisan migrate
+php artisan list ide-helper
+php artisan ide-helper:generate
+php artisan ide-helper:models
+php artisan ide-helper:meta
+git commit -m "Ep004 DOne"
+git status
+git add .
+git commit -m "Ep005 Done"
+git push origin master
+php artisan make:middleware Tenant\\TenantMiddleware
+php artisan db:seed
+php artisan migrate:refresh --seed
+php artisan tinker
+npm install winser -g
+winser
+cd ../../../
+e n.js
+winser --install n.js 
+runas admin
+php artisan tinker
+composer require sven/artisan-view --dev
+php artisan tinker
+npm install winser -g
+winser
+cd ../../../
+e n.js
+winser --install n.js 
+runas admin
+composer require sven/artisan-view --dev
+Cd ../..
+ls
+cd multitenancy-multidb\
+git commit --amend
+git log
+git pull
+p.
+git status
+git commit -m "Resolved Conflicts"
+php artisan tinker
+git add .
+git commit -m "Ep007 Done"
+git push origin master
+php artisan make:middleware Tenant\SetTenant
+cd ..
+cd TBO\
+node
+composer require symfony/console
+p.
+cd travninja-experiments\
+l
+e.
+git clone git@github:error17191/multitenancy-singledb
+git clone git@github.com:error17191/multitenancy-singledb
+cd multitenancy-singledb\
+cp .env.example .env
+e .env
+php artisan make:model Project -m
+php artisan make:controller Tenant\DashboardController
+php artisan key:generate
+composer require sven/artisan-view:^3.0 --dev
+php artisan migrate\
+php artisan list ide-helper
+php artisan ide-helper:generate
+php artisan ide-helper:models
+php artisan ide-helper:meta
+git commit -m "Ep004 DOne"
+git status
+git commit -m "Ep005 Done"
+php artisan make:middleware Tenant\\TenantMiddleware
+php artisan db:seed
+php artisan migrate:refresh --seed
+php artisan tinker
+npm install winser -g
+winser
+cd ../../../
+e n.js
+winser --install n.js 
+runas admin
+composer require sven/artisan-view --dev
+d:
+cd Projects\
+ls
+cd cities
+composer require igaster/laravel_cities 
+p.
+mkdir storage/geo
+mkdir storage\geo
+cd storage\geo\
+wget http://download.geonames.org/export/dump/allCountries.zip && unzip allCountries.zip && rm allCountries.zip
+wget http://download.geonames.org/export/dump/hierarchy.zip && unzip hierarchy.zip && rm hierarchy.zip
+artisan geo:seed
+php artisan migrate
+php artisan geo:seed
+cd ..\multitenancy-multidb\
+php artisan tinker
+git add .
+git commit -m "Ep008 Done"
+git push origin master
+php artisan
+php artisan inspire\
+php artisan inspire
+php artisan event:generate
+php artisan make:provider TenantServiceProvider
+cd ..
+git clone git@github.com:error17191/php-no-framework
+cd php-no-framework\
+composer install
+composer require sven/artisan-view:^3.0 --dev
+php artisan migrate\
+php artisan list ide-helper
+php artisan ide-helper:generate
+php artisan ide-helper:models
+php artisan ide-helper:meta
+git commit -m "Ep004 DOne"
+git status
+git commit -m "Ep005 Done"
+php artisan make:middleware Tenant\\TenantMiddleware
+php artisan db:seed
+php artisan migrate:refresh --seed
+php artisan tinker
+npm install winser -g
+winser
+cd ../../../
+e n.js
+winser --install n.js 
+runas admin
+composer require sven/artisan-view --dev
+d:
+cd cities
+composer require igaster/laravel_cities 
+mkdir storage/geo
+mkdir storage\geo
+cd storage\geo\
+wget http://download.geonames.org/export/dump/allCountries.zip && unzip allCountries.zip && rm allCountries.zip
+wget http://download.geonames.org/export/dump/hierarchy.zip && unzip hierarchy.zip && rm hierarchy.zip
+artisan geo:seed
+php artisan migrate
+php artisan geo:seed
+cd ..\multitenancy-multidb\
+php artisan tinker
+git add .
+git commit -m "Ep008 Done"
+git push origin master
+php artisan
+php artisan inspire\
+php artisan inspire
+php artisan event:generate
+php artisan make:provider TenantServiceProvider
+cd ..
+git clone git@github.com:error17191/php-no-framework
+cd php-no-framework\
+composer install
+e app.js
+node app.js 
+e app2.js 
+e app3.js
+e app2.js
+node app2.js 
+rm app.js app2.js 
+rm app3.js 
+cat app.js
+D:
+cd Projects\
+ls
+cd multitenancy-multidb\
+p.
+pwd
+exit
+c
+exit
+c
+c http::/facehook.com
+c -help
+c --help
+c --incognito
+c -d facebook.com
+exit
+c.
+exit
+c.
+c.
+php -r "echo 'working';"
+exit
+c.
+c.
+exit
+c.
+c.
+c.
+c.
+c.
+c.
+d:
+c.
+c.
+c.
+c.
+c.
+c.
+c.
+mkdir storage\geo
+cd storage\geo\
+wget http://download.geonames.org/export/dump/allCountries.zip && unzip allCountries.zip && rm allCountries.zip
+wget http://download.geonames.org/export/dump/hierarchy.zip && unzip hierarchy.zip && rm hierarchy.zip
+artisan geo:seed
+php artisan geo:seed
+git commit -m "Ep008 Done"
+php artisan inspire\
+php artisan inspire
+php artisan event:generate
+php artisan make:provider TenantServiceProvider
+git clone git@github.com:error17191/php-no-framework
+cd php-no-framework\
+composer install
+e app.js
+node app.js 
+e app2.js 
+e app3.js
+e app2.js
+node app2.js 
+rm app.js app2.js 
+rm app3.js 
+cat app.js
+D:
+ls
+pwd
+exit
+c
+exit
+c
+c http::/facehook.com
+c -help
+c --help
+c --incognito
+c -d facebook.com
+exit
+c.
+exit
+c.
+c.
+php -r "echo 'working';"
+exit
+c.
+c.
+exit
+c.
+c.
+c.
+c.
+c.
+c.
+c.
+c.
+c.
+c.
+c.
+c.
+d:
+cd Projects\
+cd multitenancy-multidb\
+php artisan make:controller Tenant\ProjectController
+ls app\Http\Controllers\Tenant
+ls app\Http\Controllers\
+php artisan make:model Project
+php artisan make:model --help
+touch resources\views\tenant\projects\index.blade.php
+
+echo "" > resources\views\tenant\projects\index.blade.php
+php artisan make:migration create_projects_table --path=tenant
+php artisan make:command Tenant\Migrate
+git commit -m "Ep013 Done"
+php artisan
+php artisan make:migration create_projects_table --create=projects
+php artisna migrate --help
+php artisan migrate --help
+composer dumpautoload
+php artisan tenant:migrate
+git add . 
+git commit -m "Ep014 Done"
+git push origin master
+php artisan tinker
+php artisan migrate
+php artisan migrate:fresh
+php artisan db:seed --class=UsersTableSeeder
+php artisan tenants:migrate
+php artisan tenants:migrate --help
+cd ..
+mkdir recording
+cd recording\
+p.
+c.
+git add .
+git remote add origin https://github.com/error17191/recording.git
+git remote set git@github.com:error17191/recording.git
+git remote set-url git@github.com:error17191/recording.git
+git remote set-url github.com:error17191/recording.git
+git remote set-url origin github.com:error17191/recording.git
+git rm -r .git
+rm -rf .git
+git init
+git add  .
+git commit -m "First Commit"
+git remote add origin git@github.com:error17191/recording.git
+git push -u origin master
+cd ..\multitenancy-multidb\
+git diff app/Console/Commands/Tenant/Migrate.php
+git log
+git checkout
+git checkout -- app/Console/Commands/Tenant/Migrate.php
+git status
+cd ..
+mkdir php-oop
+cd php-oop\
+c:
+cd ..
+php createDB.php 
+php createDB.php example
+php createDB.php myDB
+php artisan make:model --help
+touch resources\views\tenant\projects\index.blade.php
+echo "" > resources\views\tenant\projects\index.blade.php
+php artisan make:migration create_projects_table --path=tenant
+php artisan make:command Tenant\Migrate
+git commit -m "Ep013 Done"
+php artisan
+php artisan make:migration create_projects_table --create=projects
+php artisna migrate --help
+php artisan migrate --help
+composer dumpautoload
+php artisan tenant:migrate
+git add . 
+git commit -m "Ep014 Done"
+php artisan tinker
+php artisan migrate
+php artisan migrate:fresh
+php artisan db:seed --class=UsersTableSeeder
+php artisan tenants:migrate
+php artisan tenants:migrate --help
+mkdir recording
+cd recording\
+git remote add origin https://github.com/error17191/recording.git
+git remote set git@github.com:error17191/recording.git
+git remote set-url git@github.com:error17191/recording.git
+git remote set-url github.com:error17191/recording.git
+git remote set-url origin github.com:error17191/recording.git
+git rm -r .git
+rm -rf .git
+git add  .
+git remote add origin git@github.com:error17191/recording.git
+cd ..\multitenancy-multidb\
+git diff app/Console/Commands/Tenant/Migrate.php
+git checkout
+git checkout -- app/Console/Commands/Tenant/Migrate.php
+d:
+cd Projects\
+cd ratchet-chat\
+p.
+c.
+e.
+ e "..\..\CodeCourse\Realtime PHP with Ratchet\
+ e "..\..\CodeCourse\Realtime PHP with Ratchet\"
+explorer "..\..\CodeCourse\Realtime PHP with Ratchet\"
+git log
+php -a
+cd forum\
+cd laravelvue\
+cd node_modules\
+cd vue
+cd dist\
+cp vue.js ..\..\..\..\ratchet-chat\
+cd ..\..\..\..\ratchet-chat\
+ls
+git commit -m "Ep012"
+git status
+git remote -v
+git remote
+php server.php 
+git ad d.
+git commit -m "Course Finished"
+git push origin master
+cd ..
+laravel new laravel-cat
+laravel new laravel-chat
+cd laravel-chat\
+git init
+git add .
+git commit -m "First Commit"
+git remote add origin git@github.com:error17191/laravel-chat.git
+git push -u origin master
+l nginx reload
+mysql -u root
+mkdb minedb
+mkdb bobdb
+d:
+cd Projects\
+cd laravel-chat\
+mkdb laravel-chat
+mkdb lara
+mkdb laravel-chat
+p.
